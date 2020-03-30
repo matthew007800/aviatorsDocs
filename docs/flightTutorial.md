@@ -18,7 +18,7 @@ A getting-started tutorial, detailing the main steps to make your first flight i
 
 ![](img/flightTutorial/1fa2c1d8225171523f64ad051edf2c38.jpg)
 
-Before loading the **787**: Aviator’s Edition, It is required that you activate the
+Before loading the **787**: Aviator’s Edition, It is required that you De-activate the
 ‘Use experimental flight model’ checkbox located on the general tab of X-Plane’s
 settings. Failure to do so will cause some flight performance irregularities
 including the inability to rotate or flare. Fuel burn will also be greatly
